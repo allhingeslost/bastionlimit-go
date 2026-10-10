@@ -1,4 +1,4 @@
-module github.com/pixeldump/bastionlimit-go
+module github.com/allhingeslost/bastionlimit-go
 
 go 1.25.1
 
